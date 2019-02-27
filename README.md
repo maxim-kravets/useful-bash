@@ -15,7 +15,7 @@ Usage
 
 User who runs script must have execution rights. You can add these rights by using command:
 
-`sudo chmod u+x <path-to-script>`.
+`sudo chmod u+x <path-to-script>`
 
 After that you can boldly run the script.
 
