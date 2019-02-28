@@ -1,9 +1,9 @@
-![bash logo](assets/logo.png)
+<p align="center">
+    <img src="https://github.com/maxim-kravets/useful-bash/blob/master/assets/logo.png">
+    <h1 align="center">Useful bash scripts</h1>
+</p>
 
-Useful bash scripts
-===============
-
-This is a collection of useful Bash scripts. Scripts are regularly added and updated.
+This is collection of useful Bash scripts. Scripts are regularly added and updated.
 
 Description
 -----
