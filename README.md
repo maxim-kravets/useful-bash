@@ -10,6 +10,8 @@ Description
 
 1. `add-new-ssh-key-to-github.sh` - script that generates new ssh key, sends it to github server and binds it to your github account. Script takes one optional argument that must contain github username. If argument was not passed script will search username in git configuration. 
 
+2. `install-toolbox.sh` - script that installs [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) to your Ubuntu machine.
+
 Usage
 -----
 
